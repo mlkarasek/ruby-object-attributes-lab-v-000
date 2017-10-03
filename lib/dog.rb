@@ -19,7 +19,4 @@ def breed
 end
 
 end
-fido = Dog.new
-fido.name = "Lassie"
-snoopy = Dog.new
-snoopy.name = "Snoopy"
+
