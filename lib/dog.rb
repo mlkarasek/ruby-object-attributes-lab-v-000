@@ -7,15 +7,15 @@ end
 
 
 def name(name)
-  @name = name 
-end 
-
-def breed(breed)
-  @breed = breed 
-end 
+  @name = name
+end
 
 def breed(breed)
   @breed = breed
-end 
+end
+
+def breed(breed)
+  @breed = breed
+end
 
 end 
