@@ -15,11 +15,11 @@ def name(name)
 end
 
 def breed(breed)
-  @breed = breed
+  @breed = German Shepherd 
 end
 
 def breed(breed)
-  @breed = German Shepherd 
+  @breed = German Shepherd
 
 end
 
