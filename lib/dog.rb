@@ -1,11 +1,11 @@
 class Dog
 
-def initialize(name, breed = )
+def initialize(name, breed = "German Shepherd" )
   @name = name
   @breed = breed
 end
 
-def name=(name, breed = "")
+def name=(name, breed = "German Shepherd")
   @name = name
   @breed = breed
 end
