@@ -18,9 +18,6 @@ def breed
   @this_dogs_breed
 end
 
-def breed(breed)
-  @breed = breed
-end
 end
 fido = Dog.new
 fido.name = "Lassie"
