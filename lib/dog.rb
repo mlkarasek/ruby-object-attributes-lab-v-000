@@ -10,11 +10,11 @@ def name=(dogs_name, dogs_breed)
   @this_dogs_breed = dogs_breed
 end
 
-def name(name)
+def name
   @this_dogs_name
 end
 
-def breed(breed)
+def breed
   @this_dogs_breed
 end
 
