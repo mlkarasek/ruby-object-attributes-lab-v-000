@@ -24,4 +24,4 @@ def breed(breed)
 end
 
 fido = Dog.new("Fido")
-snoopy = Dog.new("German Shepherd")
+snoopy = Dog.new
